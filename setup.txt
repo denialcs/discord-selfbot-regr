@@ -1,0 +1,2 @@
+install: https://nodejs.org/en/
+run install.bat
